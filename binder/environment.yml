@@ -11,3 +11,4 @@ dependencies:
     - sas_kernel
     - jlab-create-sas-file
     - sas2nb
+    - swat
