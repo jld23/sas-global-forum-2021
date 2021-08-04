@@ -33,7 +33,7 @@ This is a great way to try out the Markdown/Notebook to PDF conversion tool.
 ## Binder
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sascommunities/sas-global-forum-2021/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sascommunities/sas-global-forum-2021/HEAD?urlpath=lab)
 
 Binder will allow you to run the code interactively for papers that we're authored in a Jupyter Notebook format.
 
